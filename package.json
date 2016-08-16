@@ -1,0 +1,19 @@
+{
+  "name": "imagentobase64",
+  "version": "1.0.0",
+  "description": "convert image to base64",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelChS/ImageBase64.git"
+  },
+  "author": "Miguel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiguelChS/ImageBase64/issues"
+  },
+  "homepage": "https://github.com/MiguelChS/ImageBase64#readme"
+}
